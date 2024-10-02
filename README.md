@@ -56,8 +56,6 @@
 
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PatrickRamosTI/PatrickRamosTI/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img height="150" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Snake" />
+</div>
