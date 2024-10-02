@@ -57,5 +57,6 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Snake" />
+  <img src="https://some-website.com/snake.svg" alt="Snake animation" />
 </div>
+
