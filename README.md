@@ -56,7 +56,4 @@
 
 </div>
 
-<div align="center">
-  <img src="https://some-website.com/snake.svg" alt="Snake animation" />
-</div>
 
