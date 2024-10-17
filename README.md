@@ -1,4 +1,4 @@
-<h2 align="center">Olá, 👋! Meu nome é Patrick, sou residente em TIC Software no Serratec, explorando tanto front-end quanto back-end. Sempre aprendendo e expandindo habilidades no desenvolvimento de software!</h2>
+<h2 align="center">Oi, 👋! Eu sou Patrick!</h2>
 
 <!-- Estatísticas GitHub -->
 <div align="center">
