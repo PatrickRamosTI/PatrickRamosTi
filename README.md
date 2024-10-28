@@ -1,4 +1,4 @@
-<h2 align="center">Oi, 👋! Eu sou Patrick!</h2>
+<h2 align="center">Ola👋! Eu sou Patrick!</h2>
 
 <!-- Estatísticas GitHub -->
 <div align="center">
