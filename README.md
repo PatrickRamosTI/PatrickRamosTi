@@ -26,7 +26,7 @@ Ex-residente em TIC Software no Serratec (2024), sempre aprendendo e construindo
 - [Api-Produtos](https://github.com/PatrickRamosTI/Api-Produtos): API em Java
 - [EscolaSenai](https://github.com/PatrickRamosTI/EscolaSenai): projeto de POO do Serratec 2024.2
 - [HospitalPOO](https://github.com/PatrickRamosTI/HospitalPOO): trabalho final de POO
-//- [python-estudos](https://github.com/PatrickRamosTI/python-estudos): meus estudos e projetos em Python (em andamento)//
+
 
 ## Contato
 
